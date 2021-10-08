@@ -1,0 +1,65 @@
+/* 
+Colores:
+● #212529;
+● #707070;
+● #F8F9FA o var(--light);
+● #fff o var(--white);
+● #28a745 o var(--success);
+
+Weight:
+● Roboto Light (300).
+● Roboto Medium (500). */
+
+body {
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.color-fondo {
+    background-color: #28A745;
+    
+}
+
+p {
+    font-weight: 300;
+    color: #707070;
+}
+
+/* font-size: 0.813rem ; */
+
+h5 {
+    font-weight: 300;
+    font-size: 1.25;
+    color: #212529;
+}
+
+
+.direccion {
+    font-weight: 300;
+    font-size: 0.813rem ;
+    color: #707070;
+}
+
+.precio {
+    font-weight: 300;
+    color: #707070;
+    font-size: 1rem;
+}
+
+.oferta {
+    font-weight: 500;
+    color: #28A745;
+    font-size: 1.25rem;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 1.313;
+}
+
+
+.logo-menu {
+    height: ;
+}
+
+
